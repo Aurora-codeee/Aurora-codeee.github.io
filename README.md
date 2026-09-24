@@ -1,7 +1,5 @@
-# 岳晨希 · AI 应用 / Agent 产品经理
+# 岳晨希 · AI 产品经理作品集
 
-个人作品集的公开静态网站。
+公开静态网站，包含增长方案设计、内容协作 Agent、多人协同工作台和 Agent 交付评测四个项目。
 
-网站：https://aurora-codeee.github.io/
-
-本仓库只保存可公开的网页、样式、脚本与图片，不包含原始实习材料、内部规划或服务密钥。
+访问：https://aurora-codeee.github.io/
